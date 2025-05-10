@@ -20,6 +20,53 @@
 
 ## 3. 项目列表
 
+### 2025 年 5 月 10 号添加
+
+#### Qiwei - [GitHub](https://github.com/qiweiii)
+* :white_check_mark: [Bilibili “换一换” 历史插件](https://chromewebstore.google.com/detail/bilibili-%E2%80%9D%E6%8D%A2%E4%B8%80%E6%8D%A2%E2%80%9C-%E5%8E%86%E5%8F%B2/npfopljnjbamegincfjelhjhnonnjloo)：查看 B 站首页的换一换历史。有时不小心点太快导致错过了想看的视频，这个插件可以让你往回走，查看前几组推荐视频
+
+#### Christine(上海) - [Github](https://github.com/liuyinjiwen06)
+* :white_check_mark: [Addsubtitle](https://addsubtitle.ai/)：视频一键翻译编辑加字幕，超高效视频处理，精准翻译，还原情感；语音克隆与自然配音；自动字幕生成，高效省时；即时在线编辑
+
+### 2025 年 5 月 9 号添加
+#### samzong(上海):
+* :white_check_mark: [TabBoost（Chrome 扩展）](https://chromewebstore.google.com/detail/tabboost/pnpabkdhbbjmahfnhnfhpgfmhkkeoloe)： 提高浏览器标签效率，灵感来自 Arc 浏览器和开发者的实际体验 - [更多介绍](https://github.com/samzong/chrome-tabboost)
+
+#### jzhone(佛山) 
+* :white_check_mark: [Best Bra Size Calculator](https://bestbrasizecalculator.com)：根据体态计算用户适合穿戴什么文胸以及相关保养提示
+
+#### Alex Li(苏州) 
+* :white_check_mark: [信风 AI 外贸获客智能体](https://www.trade-wind.co)：每周 AI 全网实时搜索获取高质量线索，自动化拓展终端客户/经销商/合作伙伴，快速布局海外市场 - [更多介绍](https://www.trade-wind.co/compare)
+
+#### underwoodxie - [Github](https://github.com/underwoodxie)
+* :white_check_mark: [Free AI Beauty Test](https://aibeautytest.org/): AI 颜值测试，提供给你个性化的建议
+
+### 2025 年 5 月 7 号添加
+#### jerrybi(深圳) - [Github](https://github.com/jerrybi)
+* :white_check_mark: [AI Doll Generator](https://ai-doll-generator.net)：使用 AI 技术将人像转成玩具盒子风格！
+
+#### Caron77 - [Github](https://github.com/Caron77ai)
+* :white_check_mark: [4oimg.org](https://4oimg.org)：基于 OpenAI 最新图像技术的创作平台，支持多风格生成和精确文本渲染的 AI 绘图工具
+
+### 2025 年 5 月 6 号添加
+#### yiquan00 - [GitHub](https://github.com/yiquan00)
+* :white_check_mark: [Notion style illustration](https://illustration.imglab.dev)：专注于 Notion 风格插画生成网站，一句话提示词就能生成 Notion 风格插画/Flat style illustration 
+
+#### Bobo Cao(合肥) - [Github](https://github.com/bo0-bo0), [博客](https://indiepa.ge/bo0bo0)
+* :white_check_mark: [Labubu Wallpaper](https://labubuwallpaper.com/)：下载 4K Labubu 壁纸，针对 iPhone, 笔记本和移动设备优化
+
+### 2025 年 5 月 2 号添加
+#### Allen(深圳) 
+* :white_check_mark: [Clone UI](https://cloneui.org)：Web 网页克隆工具，只需上传网站截图、UI 设计图或网站链接就能还原 80% 前端代码设计
+* :white_check_mark: [Style Ai](https://styleai.art)：免费 GPT-4o 绘画工具，轻松将图片转成吉卜力、史努比、3D 盲盒等功能
+
+### 2025 年 4 月 29 号添加
+#### dodid - [Github](https://github.com/dodid) 
+* :white_check_mark: [CFA Essentials](https://apps.apple.com/us/app/cfa-essentials-l1-3-exam-prep/id6745157137)：高效复习 CFA 考试的手机 App，可以随时随地学习的笔记内容
+
+#### vzt7 - [Github](https://github.com/vzt7/canvave)
+* :white_check_mark: [Canvave](https://canvave.com)：简单图形设计和动画制作平台。无须专业技能也能做出任意尺寸的精美设计；最高支持图片 3x 或动画 240 FPS 导出；内置基于 Flux 的 AI 文生图、图生图；适合电商卖家、广告设计、社媒运营、独立开发等有设计需求的群体
+
 ### 2025 年 4 月 27 号添加
 #### wanghongenpin(北京) - [Github](https://github.com/wanghongenpin)
 * :white_check_mark: [ProxyPin](https://github.com/wanghongenpin/proxypin/blob/main/README_CN.md)：全平台系统开源免费抓包软件
@@ -47,7 +94,7 @@
 
 ### 2025 年 4 月 21 号添加
 #### sing1ee - [GitHub](https://github.com/sing1ee)
-- :white_check_mark: [SVG Converter](https://svgviewer.app/svg-converter) ：编辑预览svg，svg转png，webp，ico等，不需要登录
+- :white_check_mark: [SVG Converter](https://svgviewer.app/svg-converter) ：编辑预览 SVG，SVG 转png，webp，ico等，不需要登录
 - :white_check_mark: [QWQ AI Assistant](https://qwq32.com/) ：免费提供经过深思熟虑且富有详细推理的答案的 AI 助手，不需要登录
 
 #### thence(深圳) - [Github](https://github.com/x-thence)
@@ -393,10 +440,6 @@
 ### 2025 年 1 月 4 号添加
 #### GFE - [Github](https://github.com/duanze)
 - :white_check_mark: [InkComic](https://play.google.com/store/apps/details?id=com.feiwen.inkcomic)：漫画阅读器（专为平板、墨水屏设计）超低占用，超高性能 - [更多介绍](https://www.xiaohongshu.com/user/profile/5db006100000000001007dc3), [Pro version](https://play.google.com/store/apps/details?id=com.feiwen.inkcomicpro)
-
-### 2025 年 1 月 1 号添加
-#### yzqzy - [Github](https://github.com/yzqzy)
-- :white_check_mark: [TradeSignal](https://tradersignal.org/)：整合多维度市场数据，提供专业的投资分析工具
 
 ### 2024 年 12 月 30 号添加
 #### Justin3go(重庆) - [Github](https://github.com/Justin3go)， [Twitter](https://x.com/Justin1024go)
@@ -3976,7 +4019,6 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 推荐一些对独立开发者有帮助的网站：
 
 [英文]
-* [Productized Startups](https://productizedstartups.com/interviews/)
 * [Indie Hacker](https://www.indiehackers.com/)
 * [Failory](https://www.failory.com/) - 分享创业失败的故事
 * [Starter Story](https://www.starterstory.com/) - 采访 e-commerce(电商) 的盈利故事，和 Indie hacker 很像，不过是专注于电商领域
