@@ -23,6 +23,14 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 5 号添加
+
+#### BHznJNs - [Github](https://github.com/BHznJNs), [博客](https://bhznjns.github.io/)
+* :white_check_mark: [Dais](https://github.com/Dais-Project/Dais)：桌面 AI Agent 客户端/工作台，为非技术用户提供专业 Agent 工作流体验，Claude Cowork 的开源替代
+
+#### michael0127 - [Github](https://github.com/michael0127)
+* :white_check_mark: [Voqusa](https://www.voqusa.com)：将 TikTok/YouTube/Instagram 视频即时转为文字稿，支持 7 大平台 14 种语言
+
 ### 2026 年 5 月 4 号添加
 
 #### retryu - [Github](https://github.com/retryu)
