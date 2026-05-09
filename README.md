@@ -28,11 +28,7 @@
 
 #### skyyy47 - [Github](https://github.com/skyyy47)
 * :white_check_mark: [ChatGPT Image2](https://www.gptimages2.net)：AI 图片生成工具，集 AI 图片生成、图片编辑与视频创作于一体的一站式工作流平台，帮助用户从文字或图片快速生成高质量创意内容。
-
-#### skyyy47 - [Github](https://github.com/skyyy47)
 * :white_check_mark: [Zuss AI Video Generator](https://www.zuss.ai)：一站式 AI 图片与视频生成平台，整合多种先进模型，支持文字生成图片、图片生成视频、图片编辑和多模型创作工作流。
-
-#### skyyy47 - [Github](https://github.com/skyyy47)
 * :white_check_mark: [AI Dance Generator](https://aidancing.io/)：AI 舞蹈视频生成工具，用户上传人物或角色图片并选择参考舞蹈视频，即可快速生成热门风格的跳舞视频。
 
 #### lqomg(成都) - [Github](https://github.com/lqomg)
@@ -40,8 +36,6 @@
 
 #### study8677 - [Github](https://github.com/study8677)
 * :white_check_mark: [OpenCMO](https://www.aidcmo.com/workspace)：输入一行 URL，AI Agent 自动发现获客机会、分析竞品/SEO/GEO/社区信号，并持续撰写博客和营销任务。
-
-#### study8677 - [Github](https://github.com/study8677)
 * :white_check_mark: [Readme.skill](https://github.com/study8677/Readme.skill)：Claude Code / Codex CLI Skill，本地只读生成默认脱敏的 AI-Native 开发者 README 与海报，让任何使用 AI Agent 的人都能量化展示自己的 AI 协作方式、项目分布和产出节奏
 
 #### RawandDev - [Github](https://github.com/RawandDev)
