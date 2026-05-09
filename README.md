@@ -23,6 +23,11 @@
 
 ## 3. 项目列表
 
+### 2026 年 5 月 9 号添加
+
+#### WilliamLevels - [Github](https://github.com/WilliamLevels)
+* :white_check_mark: [AI SVG Generator](https://svggenerator.org)：AI SVG 生成器，可将文本即时转换为精美的 SVG 图标、Logo 和矢量图形。
+
 ### 2026 年 5 月 7 号添加
 
 #### suncoliner - [Github](https://github.com/suncoliner)
